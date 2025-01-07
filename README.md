@@ -9,13 +9,13 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - 🌱 I’m currently learning advanced algorithms and machine learning.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about web development, Python, and data science.
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [meershajafar@gmail.com](mailto:email@example.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## 🛠️ Skills
 
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** Django, Flask, React, Node.js
+- **Languages:** Python, JavaScript, HTML, CSS, Java, Dart, Kotlin
+- **Frameworks:** Django, Flask, React, Node.js, Springboot
 - **Tools & Technologies:** Git, Docker, Kubernetes, AWS
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
