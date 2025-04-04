@@ -35,4 +35,8 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ---
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@meershamj/30-nites-of-code)  
+  ![@meershamj #30NitesOfCode](https://www.codedex.io/api/petStatus?user=meershamj)
+
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on a project or just want to chat about tech!
