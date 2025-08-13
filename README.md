@@ -23,11 +23,6 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ![Meersha Mohammed Jafar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meershamohammedjafar&show_icons=true&theme=radical)
 
-## Top Repositories
-
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=meershamohammedjafar&repo=repo-name&theme=radical)](https://github.com/meershamohammedjafar/repo-name)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=meershamohammedjafar&repo=repo-name&theme=radical)](https://github.com/meershamohammedjafar/repo-name)
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meershamohammedjafar/)
